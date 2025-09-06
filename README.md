@@ -9,12 +9,10 @@ Buy me a coffee https://paypal.me/StanislavTimofeev       )
 ![Image alt](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Img/pcv5.jpg)
 
 This is a very compact computer case that I made for my NAS on SSD 2.5 drives with a RAID controller.
-The model was created for laser cutting from sheet material (I used acrylic of different colors, white 9016, black RAL 9005 and ultramarine RAL 5002).
+The model was created for laser cutting from sheet material (I used acrylic of different colors, white 9016, black RAL 9005 or ultramarine RAL 5002).
 The model was created in Fusion 360.
 
-**Version V4**
-
-![Image alt](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Img/PC_Box_16v4_2024-Jun-26_03-18-59PM-000_CustomizedView2781047564.jpg)
+[**Old Version V4**](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS)
 
 **3D model Fusion 360** 
 
