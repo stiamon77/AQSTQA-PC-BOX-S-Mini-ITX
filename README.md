@@ -20,6 +20,8 @@ The model was created in Fusion 360.
 
 [**3D model Fusion 360 and STEP, STL files**](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/tree/main/Model)
 
+[**Instructions**](#instructions)
+
 **Computer hardware and case parts**
 
 1. Any mini-ITX motherboard will do. Check the height of the cooling system. And at least one PCI-Express x16 for the RAID controller. I used the board ASRock J4005B-ITX
@@ -39,3 +41,8 @@ The model was created in Fusion 360.
 15. [**Decorative mesh for the front and back of the case.**](https://s.click.aliexpress.com/e/_onzry1C) [**And you may also need dust protection.**](https://s.click.aliexpress.com/e/_okZUZ0w)
 16. In order not to clog the case space with a bunch of wires, it is better to make a power cable for SATA drives yourself. It's easy to do, all you need are [**wires 18AWG (yellow, black 2x, red, I had 10 meters to spare)**](https://s.click.aliexpress.com/e/_mqA43wY) and [**connectors (With 180 Cap).**](https://s.click.aliexpress.com/e/_mPAv6ti)
 17. You will also need glue for the plastic from which you will make the body. Choose special, good glue.
+
+# <a name="instructions">Instructions</a>
+
+![Image alt](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/blob/main/Img/manual/sassm.jpg)
+![Image alt](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/blob/main/Img/manual/sas2sm.jpg)
