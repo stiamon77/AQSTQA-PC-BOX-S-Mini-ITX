@@ -14,11 +14,7 @@ The model was created in Fusion 360.
 
 [**Old Version V4**](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS)
 
-**3D model Fusion 360** 
-
-[**part1**](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/tree/main/Model)
-
-[** **Laser cutting files** **](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/tree/main/For%20laser%20cutting)
+[**3D model Fusion 360**](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/tree/main/Model)
 
 **Computer hardware and case parts**
 
