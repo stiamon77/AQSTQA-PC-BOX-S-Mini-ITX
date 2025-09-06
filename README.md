@@ -1,7 +1,4 @@
 # AQSTQA-PC-BOX-S-Mini-ITX
-Small computer case, made of acrylic. Holds 24 ssd 2.5
-
-# AQSTQA-PC-BOX-S-Mini-ITX v5
 
 Buy me a coffee https://paypal.me/StanislavTimofeev       )
 
