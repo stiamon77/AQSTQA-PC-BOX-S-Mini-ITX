@@ -16,14 +16,9 @@ The model was created in Fusion 360.
 
 **3D model Fusion 360** 
 
-[**part1**](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Model/PC%20Box%2016v4%20v17%20(F3Z).part1.rar)
-[**part2**](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Model/PC%20Box%2016v4%20v17%20(F3Z).part2.rar)
-[**part3**](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Model/PC%20Box%2016v4%20v17%20(F3Z).part3.rar)
+[**part1**](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/tree/main/Model)
 
 [** **Laser cutting files** **](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/tree/main/For%20laser%20cutting)
-
-The folder contains two Corel Draw files and each part separately in dxf format. For laser cutting I used 5mm and 3mm acrylic. You can use any solid sheet plastic in these sizes.
-You can order laser cutting according to these drawings in your city from any company that provides these services. It is not expensive )
 
 **Computer hardware and case parts**
 
@@ -44,12 +39,3 @@ You can order laser cutting according to these drawings in your city from any co
 15. [**Decorative mesh for the front and back of the case.**](https://s.click.aliexpress.com/e/_onzry1C) [**And you may also need dust protection.**](https://s.click.aliexpress.com/e/_okZUZ0w)
 16. In order not to clog the case space with a bunch of wires, it is better to make a power cable for SATA drives yourself. It's easy to do, all you need are [**wires 18AWG (yellow, black 2x, red, I had 10 meters to spare)**](https://s.click.aliexpress.com/e/_mqA43wY) and [**connectors (With 180 Cap).**](https://s.click.aliexpress.com/e/_mPAv6ti)
 17. You will also need glue for the plastic from which you will make the body. Choose special, good glue.
-
-
-![Image alt](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Img/PC_Box_16v4_2024-Jun-26_02-11-20PM-000_CustomizedView4456576218.jpg)
-![Image alt](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Img/PC_Box_16v4_2024-Jun-26_02-13-11PM-000_CustomizedView16062987769.jpg)
-![Image alt](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Img/PC_Box_16v4_2024-Jun-26_02-15-38PM-000_CustomizedView11494094846.jpg)
-![Image alt](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Img/PC_Box_16v4_2024-Jun-26_02-14-34PM-000_CustomizedView7183140828.jpg)
-![Image alt](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Img/PC_Box_16v4_2024-Jun-26_02-09-45PM-000_CustomizedView27963997169.jpg)
-![Image alt](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Img/PC_Box_16v4_2024-Jun-26_07-53-47PM-000_CustomizedView7013359680.jpg)
-![Image alt](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Img/PC_Box_16v4_2024-Jun-26_07-56-18PM-000_CustomizedView6989542613.jpg)
