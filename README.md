@@ -44,5 +44,5 @@ The model was created in Fusion 360.
 
 # <a name="instructions">Instructions</a>
 
-![Image alt](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/V5/blob/Img/manual/sassm.jpg)
-![Image alt](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/V5/blob/Img/manual/sas2sm.jpg)
+![Image alt](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/blob/V5/Img/manual/sassm.jpg)
+![Image alt](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/blob/V5/Img/manual/sas2sm.jpg)
