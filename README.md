@@ -6,11 +6,11 @@ Buy me a coffee https://paypal.me/StanislavTimofeev       )
 
 **New version with touch screen V5**
 
-![Image alt](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/blob/V5/main/Img/AQSTQA_PC_BOX_S%2B_B_Mini-ITX_v5_1sm.jpg)
-![Image alt](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/blob/V5/main/Img/pcv5.jpg)
-![Image alt](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/blob/V5/main/Img/AQSTQA_PC_BOX_S%2B_B_Mini-ITX_v5_3sm.jpg)
-![Image alt](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/blob/V5/main/Img/AQSTQA_PC_BOX_S%2B_B_Mini-ITX_v5_2homesm.jpg)
-![Image alt](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/blob/V5/main/Img/AQSTQA_PC_BOX_S%2B_B_Mini-ITX_v5_1homesm.jpg)
+![Image alt](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/blob/V5/Img/AQSTQA_PC_BOX_S%2B_B_Mini-ITX_v5_1sm.jpg)
+![Image alt](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/blob/V5/Img/pcv5.jpg)
+![Image alt](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/blob/V5/Img/AQSTQA_PC_BOX_S%2B_B_Mini-ITX_v5_3sm.jpg)
+![Image alt](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/blob/V5/Img/AQSTQA_PC_BOX_S%2B_B_Mini-ITX_v5_2homesm.jpg)
+![Image alt](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/blob/V5/Img/AQSTQA_PC_BOX_S%2B_B_Mini-ITX_v5_1homesm.jpg)
 
 This is a very compact computer case that I made for my NAS on 24-SSD 2.5 and 3+8HDD 3.5 drives with a RAID controller.
 The model was created for laser cutting from sheet material (I used acrylic of different colors, white 9016, black RAL 9005 or ultramarine RAL 5002).
@@ -18,7 +18,7 @@ The model was created in Fusion 360.
 
 [**Old Version V4**](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS)
 
-[**3D model Fusion 360 and STEP, STL files**](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/V5/tree/main/Model)
+[**3D model Fusion 360 and STEP, STL files**](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/tree/V5/Model)
 
 [**Instructions**](#instructions)
 
@@ -44,5 +44,5 @@ The model was created in Fusion 360.
 
 # <a name="instructions">Instructions</a>
 
-![Image alt](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/V5/blob/main/Img/manual/sassm.jpg)
-![Image alt](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/V5/blob/main/Img/manual/sas2sm.jpg)
+![Image alt](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/V5/blob/Img/manual/sassm.jpg)
+![Image alt](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/V5/blob/Img/manual/sas2sm.jpg)
