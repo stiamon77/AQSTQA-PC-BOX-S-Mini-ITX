@@ -13,7 +13,7 @@ Buy me a coffee https://paypal.me/StanislavTimofeev       )
 ![Image alt](Img/AQSTQA_PC_BOX_S%2B_B_Mini-ITX_v5_1homesm.jpg)
 ![Image alt](Img/AQSTQA_PC_BOX_S%2B_B_Mini-ITX_v5_5sm.jpg)
 ![Image alt](Img/AQSTQA_PC_BOX_S+_B_Mini-ITX_v5_6sm.jpg)
-![Image alt](Img/AQSTQA_PC_BOX_S+_B_Mini-ITX_v5_7sm.jpg(
+![Image alt](Img/AQSTQA_PC_BOX_S+_B_Mini-ITX_v5_7sm.jpg)
 
 This is a very compact computer case that I made for my NAS on 24-SSD 2.5 and 3+8HDD 3.5 drives with a RAID controller.
 The model was created for laser cutting from sheet material (I used acrylic of different colors, white 9016, black RAL 9005 or ultramarine RAL 5002).
