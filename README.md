@@ -23,7 +23,7 @@ The model was created in Fusion 360.
 
 [**3D model Fusion 360 and STEP, STL files**](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/tree/V5/Model)
 
-[** **Laser cutting files** **](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/tree/main/For%20laser%20cutting)
+[** **Laser cutting files** **](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/tree/V5/Laser%20cutting)
 
 [**Instructions**](#instructions)
 
