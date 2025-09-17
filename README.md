@@ -54,3 +54,7 @@ The model was created in Fusion 360.
 
 ![Image alt](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/blob/V5/Img/manual/sassm.jpg)
 ![Image alt](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX/blob/V5/Img/manual/sas2sm.jpg)
+
+
+## [Lend your support to our projects](https://taplink.cc/aqstqa)
+
