@@ -1,6 +1,10 @@
 # AQSTQA-PC-BOX-S-Mini-ITX
 
-Buy me a coffee https://paypal.me/StanislavTimofeev       )
+
+
+## [Lend your support to our projects](https://taplink.cc/aqstqa)
+
+
 
 **Industrial and interface design: [Liberiam (Mary Timofeeva)](https://www.linkedin.com/in/mary-timofeeva-184484382/)**
 
