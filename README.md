@@ -40,7 +40,7 @@ The model was created in Fusion 360.
 5. [**Connection cable MegaRAID 9260-8 in HBA Cards (Mini Sas Sff 8087) 0.3m, 1 items**](https://s.click.aliexpress.com/e/_opS96ST)
 6. [**16x Extender Riser Adapter Card for powering HBA Cards**](https://s.click.aliexpress.com/e/_omNainU)
 7. TFX power supply 250-300 watts or more, depends on your motherboard, if it is powerful and you plan to load this computer, then calculate the power of the power supply based on this. I disassembled my power supply and got rid of the metal casing
-8. [**Two good 120mm fans**](https://s.click.aliexpress.com/e/_olfPU1C)
+8. [**Two good 140mm fans**](https://s.click.aliexpress.com/e/_olfPU1C)
 9. [**Two buttons with 12mm indication for turning on and restarting the PC. The first button is connected to the power indication, the second to the HDD operation indication on the motherboard**](https://s.click.aliexpress.com/e/_opKHAS2)
 10. [**Black grade 12.9 steel Hex Hexagon Socket Cone Point Grub Set Screw Tapered End Bolt (M3 6mm, 150 pieces)﻿**](https://s.click.aliexpress.com/e/_olQWtFt)
 11. [**M2 bolts for fastening the front cover (M2, 10mm, 10 pieces)**](https://s.click.aliexpress.com/e/_mNhPjba), [**color metal**](https://s.click.aliexpress.com/e/_mNhPjba) or [**black**](https://s.click.aliexpress.com/e/_mKz7Iay)
